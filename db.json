@@ -31,21 +31,6 @@
       "text": "You are the batman of this world"
     }
   ],
-  "todos":[
-    {
-      "id":1,
-      "task":"Playing",
-      "status":"pending"
-    }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "username": "soumya",
-      "email": "soumya@gmail.com",
-      "password": "soumya"
-    }
-  ],
   "dogs": [
     {
       "id": 1,
